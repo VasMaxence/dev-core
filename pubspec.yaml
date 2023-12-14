@@ -10,6 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  # Firebase utils
+  firebase_core:
+  cloud_firestore:
+  cloud_functions: 
+
   flutter_screenutil:
   auto_route:
   flutter_svg:
